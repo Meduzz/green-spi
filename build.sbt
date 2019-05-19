@@ -1,6 +1,6 @@
 name := "green-spi"
 
-version := "201905019"
+version := "20190519"
 
 scalaVersion := "2.12.8"
 
